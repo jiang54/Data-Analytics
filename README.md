@@ -1,6 +1,6 @@
 |Link| Project | Technology |
 |---------|---------|---------|
-| [Link](https://github.com/jiang54/Data-Analytics/tree/main) | Tmall Double Eleven beauty sales data analysis | Python,Jupyter Notebook |
+| [Link](https://github.com/jiang54/Data-Analytics/tree/main) | Tmall 11.11 beauty sales data analysis | Python,Jupyter Notebook |
 | [Link](https://github.com/jiang54/Sales-and-Customer-Dashboard) | Sales and Customer -Dashboard  | Qlik Sense |
 | [Link](https://github.com/jiang54/HR-Dashboard) | HR Dashboard | PowerBI |
 | [Link](https://github.com/jiang54/Call-Center-Customer-Satisfication-Analysis) | Pwc Switzerland Power BI virtual case experience - Call Center Customer Satisfaction Analysis | PowerBI |
