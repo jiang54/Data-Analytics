@@ -1,6 +1,6 @@
 |Link| Project | Technology |
 |---------|---------|---------|
-| [Link](https://github.com/jiang54/Data-Analytics/tree/main) | Tmall 11.11 beauty sales data analysis | Python,Jupyter Notebook |
+| [中文版](https://github.com/jiang54/Data-Analytics/blob/main/%E5%A4%A9%E7%8C%AB%E5%8F%8C%E5%8D%81%E4%B8%80%E6%8A%A4%E8%82%A4%E5%93%81%E5%8C%96%E5%A6%86%E5%93%81%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%A4%A9%E7%8C%AB%E5%8F%8C%E5%8D%81%E4%B8%80%E6%8A%A4%E8%82%A4%E5%93%81%E5%8C%96%E5%A6%86%E5%93%81%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)[Link](https://github.com/jiang54/Data-Analytics/tree/main) | Tmall 11.11 beauty sales data analysis | Python,Jupyter Notebook |
 | [Link](https://github.com/jiang54/Sales-and-Customer-Dashboard) | Sales and Customer -Dashboard  | Qlik Sense |
 | [Link](https://github.com/jiang54/-Diversity-and-Inclusion-Analysis) | Pwc Switzerland Power BI virtual case experience - Diversity and Inclusion Analysis | PowerBI |
 | [Link](https://github.com/jiang54/Call-Center-Customer-Satisfication-Analysis) | Pwc Switzerland Power BI virtual case experience - Call Center Customer Satisfaction Analysis | PowerBI |
