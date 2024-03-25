@@ -7,7 +7,7 @@
 | [Link](https://github.com/jiang54/Customer-Retention-Analysis) | Pwc Switzerland Power BI virtual case experience - Customer Retention Analysis | PowerBI |
 | [Link](https://github.com/jiang54/HR-Dashboard) | HR Dashboard | PowerBI |
 | [Link](https://github.com/jiang54/External-Factors-Affecting-Average-California-SAT-Scores) | External-Factors-Affecting-Average-California-SAT-Scores | R |
-
+| [Link](https://www.kaggle.com/code/jiang54/house-prices-advanced-regression-techniques) | House Prices - Advanced Regression Techniques | Python |
 ![JupyterLab-01](https://github.com/jiang54/Data-Analytics/assets/24377958/be81ebfe-b5aa-4a50-a1f7-0d7f31ed84ea)
 ![JupyterLab-02](https://github.com/jiang54/Data-Analytics/assets/24377958/5e51b56b-0b75-4220-b446-611e2df264f4)
 ![JupyterLab-03](https://github.com/jiang54/Data-Analytics/assets/24377958/3f29bbf9-385a-4abc-aca6-0b50aa0a572d)
